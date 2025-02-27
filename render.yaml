@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: discord-bot
+    env: go
+    plan: free
+    buildCommand: go build -o bot
+    startCommand: ./bot
