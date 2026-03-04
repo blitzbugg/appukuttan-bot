@@ -1,4 +1,4 @@
-module github.com/blitzbigg/appukuttan-bot
+module github.com/blitzbugg/appukuttan-bot
 
 go 1.23.1
 

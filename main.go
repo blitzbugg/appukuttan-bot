@@ -92,7 +92,12 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 }
 
 func getSpotifySuggestions(query string, limit int) string {
-	results, err := spotifyClient.Search(context.Background(), query, spotify.SearchTypeTrack)
+	results, err := spotifyClient.Search(
+    context.Background(),
+    query,
+    spotify.SearchTypeTrack,
+    spotify.Limit(20),
+)
 	if err != nil {
 		return "Oops, I couldn’t fetch songs right now!"
 	}
