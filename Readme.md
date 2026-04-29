@@ -1,7 +1,13 @@
 # Appukuttan: The Clueless Malayalam Music Bot! 😂🎶
 Inspired by the lovable goof from In Harihar Nagar, this bot brings Malayalam music chaos to Discord—sad, happy, or romantic, just like Appukuttan’s wild life! Powered by Go and Spotify.
 
-Say hello to Appukuttan, the Discord bot based on the In Harihar Nagar legend who’s as confused as he is charming! Like Appukuttan stumbling through sad flops, happy accidents, and romantic disasters with Maya, this bot dishes out Malayalam songs to match your mood.
+>## Penkuttikalkku ingane simple dress dharikkunnavare ishtamalla? Don't they like?😎
+
+
+
+### Chat with [Appukuttan](https://discord.com/oauth2/authorize?client_id=1344338845126230036) Now!
+
+
 
 ## Appukuttan’s Mood Moments
 Check out Appukuttan’s cinematic journey—sad, happy, and romantic—straight from In Harihar Nagar!
