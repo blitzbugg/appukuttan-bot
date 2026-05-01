@@ -5,7 +5,7 @@ Inspired by the lovable goof from In Harihar Nagar, this bot brings Malayalam mu
 
 
 
-### Chat with [Appukuttan](https://discord.com/oauth2/authorize?client_id=1344338845126230036) Now!
+### Chat with [Appukuttan](https://discord.com/oauth2/authorize?client_id=1344338845126230036&permissions=0&integration_type=0&scope=bot) Now!
 
 
 
