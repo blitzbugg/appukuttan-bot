@@ -44,6 +44,12 @@ const helpMessage = "🎵 **Appukuttan - Malayalam Mood Bot**\n\n" +
 	"> `!help` or `/help` — Show this message"
 
 func main() {
+	go func() {
+    http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+        w.Write([]byte("Bot is running 🚀"))
+    })
+    http.ListenAndServe(":8080", nil)
+}()
 	err := godotenv.Load()
 	if err != nil {
 		fmt.Println("Warning: .env file not found")
